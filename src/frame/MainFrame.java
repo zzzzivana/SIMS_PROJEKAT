@@ -21,7 +21,7 @@ public class MainFrame extends JFrame {
 	{
 		framePosition = this;
 		//Osnovna podesavanja
-		setTitle("SiMa");
+		setTitle("MIRS");
 		setDefaultCloseOperation(DO_NOTHING_ON_CLOSE);
 		setExtendedState(MAXIMIZED_BOTH);
 		 
