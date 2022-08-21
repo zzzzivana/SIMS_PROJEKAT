@@ -20,7 +20,7 @@ public class MainFrame extends JFrame {
 	public MainFrame()
 	{
 		framePosition = this;
-		//Osnovna podesavanja
+		//osnovna podesavanja izmjena
 		setTitle("MIRS");
 		setDefaultCloseOperation(DO_NOTHING_ON_CLOSE);
 		setExtendedState(MAXIMIZED_BOTH);
